@@ -1,11 +1,11 @@
-# economics
+# Economics
 
 # Concepts
 
 # Priority
 
-1. Supply and Demand shifts
 1. Utility Maximization
+1. Supply and Demand shifts
 
 ## Next steps
 
